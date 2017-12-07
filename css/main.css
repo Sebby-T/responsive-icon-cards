@@ -108,7 +108,6 @@ html {
 
   html {
     font-size: 130%;
-    line-height: 1.6;
   }
 
   .cards {
@@ -117,7 +116,7 @@ html {
 
   .card-img {
     display: inline-block;
-    margin: 1em.5em;
+    margin: 1em .5em;
   }
 
   .card-body {
